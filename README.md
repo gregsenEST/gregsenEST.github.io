@@ -21,13 +21,10 @@ Kas keegi teab, kas see pilt maksab 206182 euro?
   <tr>
     <td><b>Pilt A
     <td><i>Hawaii
-  </tr>
   <tr>
     <td><b>Pilt B
     <td><i>Uus-Meremaa
-  </tr>
   <tr>
     <td><b>Pilt C
     <td><i>Rumeenia
-  </tr>
-</table>
+
