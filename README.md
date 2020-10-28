@@ -26,4 +26,3 @@
   <tr>
     <td><b>Pilt C
     <td><i>Rumeenia
-  </table>
