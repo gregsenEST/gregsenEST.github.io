@@ -1,7 +1,7 @@
 # gregsenEST.github.io
 <div style="background-image: url('.jpg');">
 <p style="background-color:Grey;">Lorem ipsum...</p>
-<h1 style="color:Tomato;">Hello World</h1>
+<h1 style="color:SlateBlue;">Hello World</h1>
 
 Kas keegi teab, kes see hr 206182 on?
 
