@@ -6,6 +6,8 @@
 
 <body> Meie maailm on täis imelisi kohti, mida külastada, avastada ja uurida. Mõnikord on tõesti raske uskuda, et planeet Maa on nii imeline ja täis looduse ilu. Aga jah, see on tõsi, Maa on hämmastav ja ainulaadne. Vaadake fotosid, mis seda tõestavad ja naudivad.</body>
 
+<body style="color:OrangeRed;">Millise puhkusekoha valiksite endale?</body>
+
 Kas keegi teab, kas see pilt maksab 206182 euro?
 
 <a href="https://taltech.ee/">Äkki keegi TalTechis teab... </a>
