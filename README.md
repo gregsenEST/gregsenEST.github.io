@@ -22,6 +22,7 @@
   <tr>
     <td><b>Pilt C
     <td><i>Rumeenia
+</table>
 
 <a href="https://taltech.ee/">Äkki TalTech pakkub virtuaalreiseю... </a>
 
