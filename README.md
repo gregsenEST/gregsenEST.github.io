@@ -24,6 +24,6 @@
     <td><i>Rumeenia
 </table>
 
-<a href="https://taltech.ee/">Äkki TalTech pakkub virtuaalreise... </a>
+<p><a href="https://taltech.ee/">Äkki TalTech pakkub virtuaalreise... </a></p>
 
 <p>206182</p>
