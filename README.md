@@ -21,11 +21,10 @@ Kas keegi teab, kas see pilt maksab 206182 euro?
   </tr>
   <tr>
     <td><b>Pilt B</td>
-    <td><b>Pilt C</td>
+    <td><i>Uus-Meremaa</td>
   </tr>
   <tr>
-
-    <td><i>Uus-Meremaa</td>
+    <td><b>Pilt C</td>
     <td><i>Rumeenia</td>
   </tr>
 </table>
