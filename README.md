@@ -4,7 +4,7 @@
 ![3](https://user-images.githubusercontent.com/73599574/97463834-d6fa4e00-1948-11eb-9e40-dcc0822ed7df.png)
 <h1 style="color:OrangeRed;">Teie unistate puhkusest... </h1>
 
-Meie maailm on täis imelisi kohti, mida külastada, avastada ja uurida. Mõnikord on tõesti raske uskuda, et planeet Maa on nii imeline ja täis looduse ilu. Aga jah, see on tõsi, Maa on hämmastav ja ainulaadne. Vaadake fotosid, mis seda tõestavad ja naudivad.
+<body> Meie maailm on täis imelisi kohti, mida külastada, avastada ja uurida. Mõnikord on tõesti raske uskuda, et planeet Maa on nii imeline ja täis looduse ilu. Aga jah, see on tõsi, Maa on hämmastav ja ainulaadne. Vaadake fotosid, mis seda tõestavad ja naudivad.</body>
 
 Kas keegi teab, kas see pilt maksab 206182 euro?
 
