@@ -2,7 +2,9 @@
 ![1](https://user-images.githubusercontent.com/73599574/97463828-d5c92100-1948-11eb-9224-d61ecf0d4ccd.png)
 ![2](https://user-images.githubusercontent.com/73599574/97463833-d6fa4e00-1948-11eb-9350-fa7970eeda08.png)
 ![3](https://user-images.githubusercontent.com/73599574/97463834-d6fa4e00-1948-11eb-9e40-dcc0822ed7df.png)
-<h1 style="color:OrangeRed;">Kas unistate puhkusest?</h1>
+<h1 style="color:OrangeRed;">Teie unistate puhkusest... </h1>
+
+Meie maailm on täis imelisi kohti, mida külastada, avastada ja uurida. Mõnikord on tõesti raske uskuda, et planeet Maa on nii imeline ja täis looduse ilu. Aga jah, see on tõsi, Maa on hämmastav ja ainulaadne. Vaadake fotosid, mis seda tõestavad ja naudivad.
 
 Kas keegi teab, kas see pilt maksab 206182 euro?
 
