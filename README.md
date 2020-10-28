@@ -1,7 +1,5 @@
 # gregsenEST.github.io
-![1](https://user-images.githubusercontent.com/73599574/97463828-d5c92100-1948-11eb-9224-d61ecf0d4ccd.png)
-![2](https://user-images.githubusercontent.com/73599574/97463833-d6fa4e00-1948-11eb-9350-fa7970eeda08.png)
-![3](https://user-images.githubusercontent.com/73599574/97463834-d6fa4e00-1948-11eb-9e40-dcc0822ed7df.png)
+<p><a href="https://worldinsidepictures.com/wp-content/uploads/2013/11/830.jpg">![3](https://user-images.githubusercontent.com/73599574/97463834-d6fa4e00-1948-11eb-9e40-dcc0822ed7df.png)</a></p>
 
 <h6 style="color:Black;">206182</h6>
 <h1 style="color:OrangeRed;">Teie unistate puhkusest... </h1>
