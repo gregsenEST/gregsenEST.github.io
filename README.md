@@ -2,11 +2,15 @@
 ![1](https://user-images.githubusercontent.com/73599574/97463828-d5c92100-1948-11eb-9224-d61ecf0d4ccd.png)
 ![2](https://user-images.githubusercontent.com/73599574/97463833-d6fa4e00-1948-11eb-9350-fa7970eeda08.png)
 ![3](https://user-images.githubusercontent.com/73599574/97463834-d6fa4e00-1948-11eb-9e40-dcc0822ed7df.png)
+<p>206182</p>
+<h4 style="color:OrangeRed;">Teie unistate puhkusest... </h4>
 <h1 style="color:OrangeRed;">Teie unistate puhkusest... </h1>
 
 <p>Meie maailm on täis imelisi kohti, mida külastada, avastada ja uurida. Mõnikord on tõesti raske uskuda, et planeet Maa on nii imeline ja täis looduse ilu. Aga jah, see on tõsi, Maa on hämmastav ja ainulaadne. Vaadake fotosid, mis seda tõestavad ja naudivad.</p>
 
 <h2><b style="color:OrangeRed;">Millise puhkusekoha valiksite endale?</b></h2>
+
+<p><a href="https://taltech.ee/">Äkki TalTech pakkub virtuaalreise... </a></p>
 
 <table style="width:100%">
   <tr>
@@ -23,7 +27,3 @@
     <td><b>Pilt C
     <td><i>Rumeenia
   </table>
-
-<p><a href="https://taltech.ee/">Äkki TalTech pakkub virtuaalreise... </a></p>
-
-<p>206182</p>
