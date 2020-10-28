@@ -1,5 +1,6 @@
-# gregsenEST.github.io
-Final task
+Mr. 206182 final task
+
+
 
 <img src="pic_trulli.jpg" alt="Italian Trulli">
 
@@ -29,3 +30,14 @@ Final task
 <h4>Heading 4</h4>
 <h5>Heading 5</h5>
 <h6>Heading 6</h6>
+
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
