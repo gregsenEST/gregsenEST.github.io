@@ -1,6 +1,8 @@
 # gregsenEST.github.io
 Final task
 
+<a href="https://taltech.ee/">Külastage TalTech kodulehte</a>
+
 <table style="width:100%">
   <tr>
     <th>Firstname</th>
