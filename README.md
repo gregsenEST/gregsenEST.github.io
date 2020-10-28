@@ -1,5 +1,5 @@
 # gregsenEST.github.io
-<img src="97463828-d5c92100-1948-11eb-9224-d61ecf0d4ccd.png" alt="Hawaii">
+<img src="https://user-images.githubusercontent.com/73599574/97463828-d5c92100-1948-11eb-9224-d61ecf0d4ccd.png" alt="Hawaii">
 <img src="97463833-d6fa4e00-1948-11eb-9350-fa7970eeda08.png" alt="Uus-Meremaai">
 <img src="97463834-d6fa4e00-1948-11eb-9e40-dcc0822ed7df.png" alt="Rumeenia">
 ![1](https://user-images.githubusercontent.com/73599574/97463828-d5c92100-1948-11eb-9224-d61ecf0d4ccd.png)
