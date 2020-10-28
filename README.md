@@ -1,11 +1,11 @@
 # gregsenEST.github.io
-Mr. 206182 final task
+Kas keegi teab, kes see hr 206182 on?
 
 
 
 <img src="pic_trulli.jpg" alt="Italian Trulli">
 
-<a href="https://taltech.ee/">Külastage TalTech kodulehte</a>
+<a href="https://taltech.ee/">Äkki keegi TalTechis teab?</a>
 
 <table style="width:100%">
   <tr>
