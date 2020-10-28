@@ -12,29 +12,18 @@ Kas keegi teab, kas see pilt maksab 206182 euro?
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
+    <th>Pilt</th>
+    <th>Koht</th>
     <th>Age</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td><b>Pilt A</td>
+    <td><b>Pilt B</td>
+    <td><b>Pilt C</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td><i>Hawaii</td>
+    <td><i>Uus-Meremaa</td>
+    <td><i>Rumeenia</td>
   </tr>
 </table>
-
-<b> - Bold text
-<strong> - Important text
-<i> - Italic text
-<em> - Emphasized text
-<mark> - Marked text
-<small> - Smaller text
-<del> - Deleted text
-<ins> - Inserted text
-<sub> - Subscript text
-<sup> - Superscript text
