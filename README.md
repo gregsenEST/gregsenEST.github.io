@@ -2,7 +2,6 @@
 ![1](https://user-images.githubusercontent.com/73599574/97463828-d5c92100-1948-11eb-9224-d61ecf0d4ccd.png)
 ![2](https://user-images.githubusercontent.com/73599574/97463833-d6fa4e00-1948-11eb-9350-fa7970eeda08.png)
 ![3](https://user-images.githubusercontent.com/73599574/97463834-d6fa4e00-1948-11eb-9e40-dcc0822ed7df.png)
-![4](https://user-images.githubusercontent.com/73599574/97463836-d792e480-1948-11eb-8836-36eb2a6cf9af.png)
 <h1 style="color:BlueViolet;">Kas unistate puhkusest?</h1>
 
 Kas keegi teab, kas see pilt maksab 206182 euro?
